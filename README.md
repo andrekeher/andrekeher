@@ -17,7 +17,7 @@ I already worked with Access, Visual Basic 6, Delphi 7, VB .NET, ASP, ASP. NET, 
 - 2021 - ... - IT Manager | Cidade Escola Aprendiz
 - 2011 - 2020 - Systems Analyst | Cidade Escola Aprendiz
 - 2009 - 2010 - Computer Technician | Cidade Escola Aprendiz
-- 2009 - 2009 - Computer Technician | AT&D Tecnologies
+- 2009 - 2009 - Computer Technician | AT&D Technologies
 - 2006 - 2008 - CAD Programmer | EtikNorte
 
 ## 📘Courses
