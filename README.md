@@ -1,4 +1,5 @@
-### Hi there 👋
+# André Keher
+#### IT Manager | PHP Senior Specialist
 
 ## 🤓 About me
 
