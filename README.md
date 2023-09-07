@@ -1,7 +1,6 @@
 # André Keher
 #### IT Manager | PHP Senior Specialist
 
-\
 ## 🤓 About me
 
 I'm a web developer since 2009. Currently working with PHP, MySQL, Wordpress (meta boxes, multisite network, plugins, shortcodes, sidebars, custom taxonomies, custom post types and widgets), CakePHP, Composer, Git, GitHub/Bitbucket, jQuery, AJAX, HTML5, VPS, Digital Ocean Cloud, Apache 2, Ubuntu, Bash (ssh, rsync, apt-\*, nano, chmod, chown, find, grep, etc), Graylog, Excel and Windows Server.
