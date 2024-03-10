@@ -1,4 +1,5 @@
 # André Keher
+
 #### IT Manager | PHP Senior Specialist
 
 ## 🤓 About me
@@ -32,9 +33,11 @@ I already worked with Access, Visual Basic 6, Delphi 7, VB .NET, ASP, ASP. NET, 
 
 ## 📄Event Participation
 
-- 2022 - PHP Community Summit 2022
-- 2021 - PHP Community Summit 2021
-- 2019 - DBA Developers Summit 2019
+- 2024 - TechSoup Brasil - IA para Organizações sem Fins Lucrativos: O que Você Precisa Saber
+- 2023 - Locaweb PHP Community Summit 2023
+- 2022 - Locaweb PHP Community Summit 2022
+- 2021 - Locaweb PHP Community Summit 2021
+- 2019 - iMasters DBA Developers Summit 2019
 - 2016 - PHP Conference 2016
 - 2010 - WP Summit
 
@@ -51,6 +54,7 @@ I already worked with Access, Visual Basic 6, Delphi 7, VB .NET, ASP, ASP. NET, 
 
 \
 ![](https://komarev.com/ghpvc/?username=andrekeher)
+
 <!--
 **andrekeher/andrekeher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
