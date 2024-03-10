@@ -2,7 +2,7 @@
 
 ## 🤓 About me
 
-I'm a web developer since 2009. Currently working with PHP, MySQL, Wordpress (meta boxes, multisite network, plugins, shortcodes, sidebars, custom taxonomies, custom post types and widgets), CakePHP, Composer, Git, GitHub/Bitbucket, jQuery, AJAX, HTML5, VPS, Digital Ocean Cloud, Apache 2, Ubuntu, Bash (ssh, rsync, apt-\*, nano, chmod, chown, find, grep, etc), Graylog, Excel and Windows Server.
+I'm a web developer since 2009. Currently working with PHP, MySQL, Wordpress (meta boxes, multisite network, plugins, shortcodes, sidebars, custom taxonomies, custom post types and widgets), CakePHP, Composer, Git, GitHub/Bitbucket, jQuery, AJAX, HTML5, VPS, Digital Ocean Cloud, Apache 2, Ubuntu, Bash (ssh, rsync, apt-\*, nano, chmod, chown, find, grep, etc), Google Analytics, Google Search Console, Google Workspace, Google Cloud Plataform, Graylog, Excel and Windows Server.
 
 I already worked with Access, Visual Basic 6, Delphi 7, VB .NET, ASP, ASP. NET, C# 2.0 - 3.5, Java, Oracle, SQL SERVER, Doctrine 2, Moodle.
 
