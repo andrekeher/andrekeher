@@ -1,4 +1,5 @@
-### Hi there 👋
+# André Keher
+#### IT Manager | PHP Senior Specialist
 
 ## 🤓 About me
 
@@ -48,6 +49,8 @@ I already worked with Access, Visual Basic 6, Delphi 7, VB .NET, ASP, ASP. NET, 
 - [Linkedin](https://www.linkedin.com/in/andr%C3%A9-keher-4363a729/)
 - [Twitter](https://twitter.com/andrekeher)
 
+\
+![](https://komarev.com/ghpvc/?username=andrekeher)
 <!--
 **andrekeher/andrekeher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
